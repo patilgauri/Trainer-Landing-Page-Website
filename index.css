@@ -1,0 +1,25 @@
+.card1{
+    background-color: rgb(248, 216, 167);
+    margin-top: 3vw;
+}
+
+.head{
+    text-align: center;
+    margin-top: 2vw;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+.quotes{
+    background-color: rgb(24, 23, 23);
+
+}
+.para{
+    margin-top: 1vw;
+    font-weight: bold;
+}
+.images{
+    width: 30vw;
+    margin-top: 1vw;
+    margin-left: 0.5rem;
+    border: 5px solid rgb(255, 196, 65);
+}
