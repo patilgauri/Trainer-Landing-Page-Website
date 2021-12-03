@@ -4,7 +4,6 @@
 }
 .ownerimg{
     width: 32vw;
-    height: 67vh;
 }
 .head{
     text-align: center;
@@ -14,13 +13,13 @@
 }
 .quotes{
     background-color: rgb(24, 23, 23);
+    font-size: large;
 }
 .para{
     margin-top: 1vw;
     font-weight: bold;
 }
 .images{
-    width: 30vw;
     margin-top: 1vw;
     margin-left: 0.5vw;
     border: 5px solid rgb(255, 196, 65);
