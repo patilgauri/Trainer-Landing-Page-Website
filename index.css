@@ -844,8 +844,6 @@ body {
     color: #009970;
   }
   
-  
-  
   #footer .social-links a {
     font-size: 18px;
     display: inline-block;
@@ -865,3 +863,63 @@ body {
     color: #fff;
     text-decoration: none;
   }
+
+/* --------------------------------------- */
+  /* FAQ'S CSS */
+/* --------------------------------------- */
+  .faqs{
+    width: 90%;
+  }
+  .Ques{
+    margin-top: 0.5vw;
+    font-size:x-large;
+    color: rgb(255, 255, 255);
+    height: 5.2vh;
+  }
+  .hs{
+    background-color: #009970;
+    border-radius: 30px;
+  }
+  .fullcard{
+    border-radius: 30px;
+  }
+  #Faq{
+    font-size: 4vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+  .faqbody{
+    background-color: #dff7f1;
+  }
+
+  /* --------------------------------------- */
+  /* QUOTES SECTION */
+/* --------------------------------------- */
+.quotes{
+  font-size: large;
+  margin-left: 5vw;
+}
+.question{
+  text-align:  center;
+  width: 98vw;
+  border-radius: 90px;
+}
+.para{
+  margin-top: 1vw;
+  font-weight: bold;
+  color: white;
+}
+.images{
+  margin-top: 1vw;
+  border-radius: 10%;
+}
+.card1{
+  background-color: #009970;
+  margin-top: 3vw;
+}
+.allquotes{
+  width: 30vw;
+}
+.ownerimg{
+  width: 32vw;
+}
