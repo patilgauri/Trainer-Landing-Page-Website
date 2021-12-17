@@ -868,13 +868,13 @@ body {
   /* FAQ'S CSS */
 /* --------------------------------------- */
   .faqs{
-    width: 90%;
+    width: 85%;
   }
   .Ques{
     margin-top: 0.5vw;
     font-size:x-large;
     color: rgb(255, 255, 255);
-    height: 5.2vh;
+    height: 3vh;
   }
   .hs{
     background-color: #009970;
@@ -882,6 +882,8 @@ body {
   }
   .fullcard{
     border-radius: 30px;
+    border: none;
+    padding: 2px;
   }
   #Faq{
     font-size: 4vw;
@@ -889,16 +891,18 @@ body {
     font-style: italic;
   }
   .faqbody{
+    margin-top: 2px;
     background-color: #dff7f1;
+    text-align: left;
+    font-size: x-large;
+    font-weight: lighter;
+    border-radius: 28px;
   }
 
   /* --------------------------------------- */
   /* QUOTES SECTION */
 /* --------------------------------------- */
-.quotes{
-  font-size: large;
-  margin-left: 5vw;
-}
+
 .question{
   text-align:  center;
   width: 98vw;
@@ -912,13 +916,6 @@ body {
 .images{
   margin-top: 1vw;
   border-radius: 10%;
-}
-.card1{
-  background-color: #009970;
-  margin-top: 3vw;
-}
-.allquotes{
-  width: 30vw;
 }
 .ownerimg{
   width: 32vw;
